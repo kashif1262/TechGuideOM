@@ -1,0 +1,1 @@
+web: gunicorn TechGuideOM.wsgi --log-file -
