@@ -1,1 +1,1 @@
-web: gunicorn TechGuideOM.wsgi --log-file -
+web: gunicorn TachGuideOM.wsgi --log-file -
